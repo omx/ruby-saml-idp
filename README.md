@@ -1,3 +1,5 @@
+# 2020-09-16 Marked as archived -- Project not in use
+
 # Ruby SAML Identity Provider (IdP)
 
 [![Build Status](https://secure.travis-ci.org/lawrencepit/ruby-saml-idp.png)](http://travis-ci.org/lawrencepit/ruby-saml-idp?branch=master)
